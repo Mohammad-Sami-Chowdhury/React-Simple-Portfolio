@@ -1,0 +1,16 @@
+.menu ul li a {
+    color: black;
+}
+.menu ul li a:hover {
+    color: #5E3BEE;
+    transition: all linear 0.5s;
+}
+.nav-button button{
+    border: 1px solid #5E3BEE;
+    color: #5E3BEE;
+}
+.nav-button button:hover{
+    color: white;
+    transition: all linear 0.5s;
+    background-color: #5E3BEE;
+}

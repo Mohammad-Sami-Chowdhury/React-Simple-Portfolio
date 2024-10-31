@@ -1,0 +1,11 @@
+input:focus {
+    outline: none;
+}
+select:focus {
+    outline: none;
+}
+.contact-btn:hover{
+    background-color: #5e3bee;
+    color: white;
+    transition: 0.5s;
+}

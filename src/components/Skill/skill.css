@@ -1,0 +1,14 @@
+.extra {
+    bottom: -10px;
+    right: 0px;
+    border-radius: 0px 0px 30px 20px;
+    background-color: transparent;
+}
+.skill:hover .extra{
+    background-color: #5E3BEE;
+    transition: 0.5s;
+}
+.skill:hover{
+    top: -10px;
+    transition: 0.5s;
+}

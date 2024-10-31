@@ -1,0 +1,22 @@
+.button:hover button{
+    border: 1px solid #E62872;
+    background-color: transparent;
+    color: #E62872;
+    transition: all linear 0.5s;
+}
+.button:hover .icon{
+    color: #E62872 !important;
+    transition: 0.5s;
+}
+.port-btn:hover .line{
+    width: 150px;
+    transition: 0.5s;
+}
+.port-btn:hover .arrow{
+    rotate: 270deg;
+    color: #5e3bee !important;
+    transition: all 0.5s;
+}
+.port-btn:hover a{
+    font-weight: bold;
+}

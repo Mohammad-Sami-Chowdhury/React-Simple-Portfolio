@@ -1,0 +1,9 @@
+.banner-l button{
+    border: 1px solid #5E3BEE;
+}
+.banner-l button:hover{
+    background-color: transparent;
+    border: 1px solid #5E3BEE;
+    color: #5E3BEE;
+    transition: all linear 0.5s;
+}
